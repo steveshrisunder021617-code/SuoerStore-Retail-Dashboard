@@ -543,7 +543,7 @@ Sample Superstore — a widely used retail dataset of US office-supply, furnitur
 
 ## 👤 Author
 
-**[Your Name]**
+**[Vismit Vikas Shrisunder]**
 [LinkedIn](#) · [Portfolio](#) · [Email](#)
 
 ---
