@@ -1,4 +1,4 @@
-# SuoerStore-Retail-Dashboard
+# SuperStore-Retail-Dashboard
 SuperStore Retail Data analysis Using Excel
 
 
