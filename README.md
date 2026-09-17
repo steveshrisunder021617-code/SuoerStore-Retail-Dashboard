@@ -544,7 +544,9 @@ Sample Superstore — a widely used retail dataset of US office-supply, furnitur
 ## 👤 Author
 
 **[Vismit Vikas Shrisunder]**
-[LinkedIn](#) · [Portfolio](#) · [Email](#)
+[www.linkedin.com/in/
+vismit-shrisunder-95bb12246
+](#) . [vismitshrisunder1999@gmail.com](#)
 
 ---
 
